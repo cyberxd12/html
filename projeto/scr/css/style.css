@@ -1,0 +1,52 @@
+
+/*code color cinza edge para background: #3b3b3b 
+
+text-align: justify;
+*/
+body {
+    background-color: #3b3b3b;
+    color: aqua;
+    border: 10px outset rgb(43, 138, 161);
+    margin: 0 0 0 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: blue;
+}
+
+mark {
+    background-color: lime;
+}
+
+h2{
+    color: rgb(141, 201, 46);
+}
+table {
+    color: red;
+}
+
+.td {
+    border: 1px solid aqua;
+}
+
+.test {
+    color: white;
+}
+
+.h2 {
+    margin: 20px;
+    color: white;
+}
+
+.h4 {
+    margin: 35px;
+}
+
+.h5 {
+    margin: 50px;
+}
+
+.principal {
+    margin-left: 15px;
+}
